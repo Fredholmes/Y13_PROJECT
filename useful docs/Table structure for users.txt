@@ -1,0 +1,6 @@
+user_ID -- auto increment number
+center_ID -- get from other table
+username -- a plain version of the username - each one is different
+password -- a hashed passord is to be stored
+no of logs
+is the user a climber or instructor -- boolean 0 if standard user or 1 if instructor

@@ -1,0 +1,10 @@
+PhpMyAdmin config file is /home/codio/.parts/packages/phpmyadmin/4.3.10/phpmyadmin/config.inc.php
+
+PhpMyAdmin URL is http://algebra-mega.codio.io:3000/phpmyadmin
+
+
+user -- root
+pass -- pVvEmrVj6afyTp75
+
+-- bdo 
+-- prepared staatements

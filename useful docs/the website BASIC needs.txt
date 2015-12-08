@@ -1,0 +1,36 @@
+--- front page
+    - login
+        login will log into page of user or instructor
+        users login is generated from instructors page
+        username + password
+        instructor can sign up, when login takes to instructor page
+        
+    - sign up 
+        instructor can sign up the center
+        email
+        center name
+        username for center admin + 1 instructor, can make more instructor accounts later
+        standard user accounts are created on the instructor screen
+        user accounts linked to center
+        
+    - user page
+        view logs from past + the comments
+        view 3d model of the wall
+        add a new log entry
+            climb name
+            date
+            level of climb
+            style of climb
+            time taken
+            comments on climb
+        change password
+      
+    - instructor page
+        view users on the center
+        add new standard users + instructor
+        look at users logs (view users profiles)
+        reset user password
+        delete user password
+        view wall
+        
+        

@@ -1,0 +1,3 @@
+- center to add username, real name and password
+- passwords are hashed
+- username is normal and text

@@ -1,0 +1,4 @@
+
+this is for hashing a password in PHP - maybe a bit out of date but will do
+  http://www.sitepoint.com/hashing-passwords-php-5-5-password-hashing-api/
+  

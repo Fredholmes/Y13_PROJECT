@@ -1,0 +1,4 @@
+-- split code into oop elements
+-- add functions 
+--use my sqli instead of old sql and replace db connect
+-- add an actual decent ui

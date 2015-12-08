@@ -1,0 +1,6 @@
+Center_ID -- auto increment number
+admin username 
+admin password -- hashed password to be stored
+no of climbers in center 
+no of instructors in center
+email address of admin 

@@ -1,0 +1,9 @@
+log_ID  -- auto increment
+user_ID -- get from other table
+center_ID -- get from other table
+log entry -- text as could be much text and varchar may not be suitable
+instructor comment -- to keep with the log 
+date of climb 
+level of climb
+time taken
+style of climb

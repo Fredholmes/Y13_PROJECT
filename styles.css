@@ -1,0 +1,94 @@
+body {
+  background: #EEE;
+  font-family: 'Comfortaa', cursive;
+  
+}
+
+nav { 
+  height: 50px;
+  background: #1a22bb;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+}
+
+li.navigation{
+    font-size: 20px; 
+    padding-top: 15px; 
+    font-family: 'Comfortaa', cursive;
+   
+}
+
+.nav2{
+  float: right;
+  padding-top:15px;
+  margin-right: 10px;
+  position: relative;
+  color: #FFF;
+  font-size: 20px;
+  font-family: 'Comfortaa', cursive;
+}
+
+
+nav ul {
+  width:1000px;
+  color: #FFF;
+}
+
+nav ul li {
+  float:left;
+  padding:15px;
+  color: #FFF;
+  
+}
+
+/* unvisited link */
+nav a:link {
+    color: #FFF;
+  text-decoration: none;
+}
+
+/* visited link */
+nav a:visited {
+    color: #FFF;
+  text-decoration: none;
+}
+/* mouse over link */
+nav ul li:hover {
+  text-decoration: underline;
+  background: #1a4be7;
+    
+}
+
+.login_form{
+    position: relative;
+    top: 25%;   
+    margin-left: 20%;
+    margin-right: auto ;
+}
+
+.login_input{
+    height:30px;
+    font-family: 'Comfortaa', cursive;
+    font-size:20px;
+    border: none; 
+}
+
+.login_button{
+    width: 60px;
+    height: 30px;
+}
+
+
+#login_div{
+    position: relative;
+    top: 25%;   
+    margin-left: auto ;
+    margin-right: auto ;
+    width: 400px;
+    height: 500px;
+    background-color:#999999;
+}
+
